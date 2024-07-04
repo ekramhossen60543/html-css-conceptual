@@ -6,4 +6,6 @@ p{
 }
 h1{
   color: tomato;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
 }
